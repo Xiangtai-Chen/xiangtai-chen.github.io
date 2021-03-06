@@ -1,11 +1,8 @@
 ---
 title: '快速配置运行SACN'
 date: 2020-11-11
-permalink: /posts/SACN/
-tags:
-  - cool posts
-  - category1
-  - category2
+permalink: /posts/2020/11/SACN/
+
 ---
 
 # SACN
