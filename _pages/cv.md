@@ -29,4 +29,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently student member, [CAAI](www.caai.cn) (中国人工智能学会)
